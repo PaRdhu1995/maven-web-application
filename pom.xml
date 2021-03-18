@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-232-100-200.ap-south-1.compute.amazonaws.com:8081/repository/Amazon-dev/</url>
+	      <url>http://ec2-13-232-100-200.ap-south-1.compute.amazonaws.com:8081/repository/rel-amazon/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-232-100-200.ap-south-1.compute.amazonaws.com:8081/repository/Amazon/</url>
+	      <url>http://ec2-13-232-100-200.ap-south-1.compute.amazonaws.com:8081/repository/snap-amazon/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
