@@ -24,8 +24,8 @@
 		<!-- <sonar.host.url>http://13.232.5.182:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> -->
-		 <sonar.host.url>http://ec2-35-154-95-95.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
-		<sonar.login>8f339672225a44fb60e61e4ce7832b848a4d7768</sonar.login>
+		 <sonar.host.url>http://ec2-15-206-147-240.ap-south-1.compute.amazonaws.com:9000//</sonar.host.url>
+		<sonar.login>1f094fc7e268ed6bc007098431f2c8107cdee494</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
